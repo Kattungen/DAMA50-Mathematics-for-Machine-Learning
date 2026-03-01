@@ -21,21 +21,17 @@ The course focuses on the mathematical foundations of machine learning, includin
 - **Probability and Statistics**: basic probability, distributions, expected value, variance
  
 ## Tools
-- **SageMath**
-- **Jupyter Notebook**
-- **CoCalc**
+- SageMath
+- Jupyter Notebook
+- CoCalc
  
 ## Repository Structure
-- **1. Assignment**:
-- **2. Assignment**:
+All assignments are stored as Jupyter notebooks (.ipynb) in the folders
+
+### [1. Assignment](1_Assignment.ipynb)
+### [2. Assignment](2_Assignment.ipynb)
 - **3. Assignment**:
 - **4. Assignment**:
 - **5. Assignment**:
 - **6. Assignment**:
 - **Final Exam**:
-
-  Each notebook includes:
-  - Problem satement
-  - Mathematical reasoning
-  - SageMath implementation
-  - Results and conclusions
